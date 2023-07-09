@@ -31,5 +31,6 @@ class multicatch
         {
             System.out.println("All type Exception handled");
         }
+        // Exception x=new NullPointerException();
     }
 }
